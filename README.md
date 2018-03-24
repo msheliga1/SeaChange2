@@ -4,6 +4,7 @@ SeaChange2 Role Play Simulation
 The Sea Change Online Roleplay Platform: the tool to enable us all to play, create, conduct and share technology enhanced conflict simulations.
 
 =================
+
 3/23/18
 
 This repo is to demonstrate Java Spring coding by Mike Sheliga. It contains Java Spring MVCs (model-view-controllers) with JSPs (Java Server Pages), and Hibernate (a database to object mapper). Currently (3.23.18) the administration options affecting users and organizations have been fully implemented while most of the other sections are under construction.
@@ -13,7 +14,7 @@ Use install/index.jsp to create a new administrator account using the key "local
 
 =============================================================
 
-3/23/18 Entire Eclipse project uploaded using command line git including 40 new or modified files.
+The entire Eclipse project uploaded on 3.23.18 using command line git including 40 new or modified files.
 
 Examples of new JSP, controller, formbean, object, dao, and searchFormBuilder code uploaded in the various admin and administration folders including:
 
